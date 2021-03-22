@@ -1,5 +1,5 @@
 # GFTP-Loyalty-Program
-The GFTP loyalty program allows companies to reward customers. Program members are able to convert their points to tokens and then redeem their tokens at any participating merchants. It can have multiple companies as partners or merchants on the program. Current loyalty program systems are restraint on relations between partners, and with visibility to members. These restraints can be removed by creating the customer loyalty program on a blockchain network.
+The GFTP loyalty program allows companies to reward customers. Program members are able to convert their points to tokens and then redeem their tokens at any participating merchants. It can have multiple companies as partners or merchants on the program. Current loyalty program systems are restraint on relations between partners, and with visibility to members. These restraints can be removed by creating the GFTP loyalty program on a blockchain network.
 
 The blockchain model for the GFTP loyalty program enhances the value of tokens to members and brings in new value to the partners or merchants by creating trusted transactions. Participants in this network have a more level relation among each other and tokens are in the centric position to connect all participants.
 
